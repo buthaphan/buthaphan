@@ -4,9 +4,9 @@
 
 > I know software. I know business. I'm bringing experience and AI together to do exceptional work.
 
-I’m an experienced software professional expanding my hands-on development skills across modern full-stack development, AI integration, cloud, and DevOps.
+I'm an experienced software professional building on my background in software development, QA, team leadership, and business understanding while expanding my hands-on skills across modern full-stack development, AI integration, cloud, and DevOps.
 
-My background combines software development, QA, team leadership, and business understanding. I enjoy connecting technical solutions with the way businesses and users actually work.
+I enjoy connecting technical solutions with the way businesses and users actually work, using AI to explore possibilities and accelerate development while applying sound engineering judgement to the decisions that matter.
 
 ---
 
@@ -15,9 +15,10 @@ My background combines software development, QA, team leadership, and business u
 - **Full-stack development** — React, JavaScript, TypeScript, HTML, CSS, jQuery, Node.js and Express
 - **Backend engineering** — REST APIs, service-layer design, MongoDB, Mongoose and SQL
 - **AI integration** — Azure OpenAI, embeddings, semantic search and AI-powered application features
+- **AI harness design & agentic coding** — configuring AI coding workflows through instructions, tools, skills, context and orchestration to support codebase investigation, problem-solving and software development
 - **Cloud & DevOps** — Azure, Docker, GitHub Actions and CI/CD
 - **Software quality** — TDD-oriented development, Jest, Supertest and automated testing
-- **Business perspective** — experience working with business software and development teams
+- **Business perspective** — experience working with business software, development teams and real-world requirements
 
 ---
 
@@ -45,9 +46,11 @@ Backend application using MongoDB and Mongoose for auction data, with keyword se
 
 ## Current Focus
 
-I’ve completed Phase 1 and am finishing Phase 2 of the Mission Ready AI-Powered Full Stack Developer programme, preparing for the mentored work experience phase.
+I'm undertaking a full-time, 10-week Software Developer Internship with PolicyCheck as part of my Mission Ready AI-Powered Full Stack Developer journey.
 
-My focus is on applying what I’ve learned in a real development environment while continuing to strengthen my skills in full-stack development, AI integration, cloud technologies, testing and software architecture.
+I'm applying my existing software and business experience in an AI-centric product engineering environment while deepening my hands-on skills across full-stack development, AI integration, cloud technologies, testing and modern development practices.
+
+I'm also exploring **agentic coding** — working with AI coding agents to investigate codebases, reason through problems, explore solutions and support development workflows. My focus is on combining these capabilities with sound engineering judgement, critical thinking and validation to build software that solves real problems.
 
 ---
 
@@ -60,3 +63,4 @@ Data           MongoDB • Mongoose • SQL
 AI             Azure OpenAI • Embeddings • Semantic Search
 Cloud          Azure • Docker • GitHub Actions • CI/CD
 Testing        Jest • Supertest • TDD
+```
